@@ -47,10 +47,10 @@ OrangeHRM is a human resource management system. This project demonstrates how t
 
 ```
 cypress/
-  â””â”€â”€ e2e/
-      â”œâ”€â”€ auth.cy.js
-      â”œâ”€â”€ myinfo.cy.js
-      â””â”€â”€ admin.cy.js
+  ---| e2e/
+      ---| auth.cy.js
+      -----| myinfo.cy.js
+      -------| admin.cy.js
 ```
 
 ## Author
